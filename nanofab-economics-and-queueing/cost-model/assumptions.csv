@@ -1,0 +1,14 @@
+Input,Low,Mode,High,Source / rationale,Confidence
+Tool utilization,0.2,0.3,0.6,"MIT.nano: ~160,000 h over 88,000 uses (1.8 h each) on 200+ tools = ~25% of 3,150 open h (article does not define the hours; read as tool-hours). Mode a bit above that average because the 15 tools are popular process tools; high end below OSTI 70% ceiling.",Medium
+Avg run length,1.0,2.0,4.0,"Average hours per billed run, converts $/run fees to $/hr. Assumed.",Low
+Staff (FTE),3.0,4.0,6.0,NIST NanoFab staffs 20 FTE for $56M of tools; a lean 4-FTE core covers 63 open hrs/wk.,Medium
+Maintenance rate,0.025,0.035,0.05,Low: NIST service contracts $1.403M / $56.0M tools = 2.5%. High: OSTI 5%/yr rule.,Medium
+Cleanroom area (ft2),2500.0,3800.0,7000.0,"ASU NanoFab: 3,800 ft2 Class 100 cleanroom for 35+ tools (checks MIT.nano scaling: ~50,000 ft2 / 200+ tools = 250 ft2 per tool, x15 = 3,750). High end for small-scale diseconomies; low ~ tool footprints (OSTI 50-150 ft2) plus aisles.",Medium
+Cleanroom power density,40.0,80.0,150.0,"LBNL: HVAC design 75-125 W/ft2 (design, not measured); measured process 4-49 W/ft2. Low = looser ISO class / lower load factor.",Medium
+Electricity rate,0.079,0.095,0.145,Low: EIA 2024 Arizona industrial avg 7.90 c/kWh. High: PowerCost example $0.12/kWh + $18/kW demand on a flat load. Mode assumed.,Medium
+Consumables (% rev),0.03,0.08,0.15,Unrecovered chemicals/gases as % of rate revenue. Wafers and '+materials' are billed pass-through (MIT.nano).,Low
+Equipment price level,1.0,1.194,1.35,NIST costs are 2020 $; escalated 6 yrs at NIST's own 3%/yr (1.03^6). Low = used/discounted.,Medium
+Facility infrastructure ratio,0.12,0.159,0.3,NIST facilities $8.913M / tools $56.006M = 15.9%; high end for small-scale diseconomies.,Medium
+Salvage fraction,0.3,0.5,0.7,Resale value as share of remaining book value of tools at year 10. Assumed.,Low
+Rate escalation,0.0,0.03,0.03,Annual rate-sheet escalation; assumed to track cost inflation (cost-recovery pricing).,Low
+External premium (x academic),1.85,2.4,3.0,"Low 1.85x: NIST standard/reduced (matched tools). High 3.00x: MIT.nano external/academic (every tool). Mode = midpoint, a judgment.",Medium

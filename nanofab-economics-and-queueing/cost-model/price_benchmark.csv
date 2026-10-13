@@ -1,0 +1,16 @@
+Tool,MIT_academic_run,MIT_academic_hr,MIT_external_run,MIT_external_hr,NIST_analog,NIST_reduced_hr_2020,NIST_standard_hr_2020
+ALD,35,20,105,60,Oxford FlexAL RPT ALD,77,143
+ICP PECVD,60,50,180,150,Plasma-Therm Versaline HD PECVD,73,135
+Sputter,0,40,0,120,Denton Discovery 550,88,163
+E-beam evaporator,0,35,0,105,Denton Infinity 22,69,128
+Rapid thermal anneal,50,30,150,90,AnnealSys RTA,81,151
+Contact aligner,60,40,180,120,Suss MA6,43,80
+Resist spinner/hotplate,20,30,60,90,CEE Apogee spinner,23,43
+Aqueous developer/clean,30,10,90,30,Suss Delta12AQ developer,50,93
+ICP/RIE etcher,60,35,180,105,Unaxis Shuttleline ICP,70,130
+Wet clean bench (RCA),60,40,180,120,SSEC single-wafer acid spray,27,50
+Wet etch bench (KOH/TMAH),60,40,180,120,SSEC single-wafer acid spray (no KOH tool at NIST),27,50
+Solvent bench,30,10,90,30,Microprocess Avenger solvent liftoff,76,141
+Spectroscopic ellipsometer,20,30,60,90,Woollam XLS-100 (in occupancy fee),0,0
+Contact profilometer,10,15,30,45,Dektak XT (in occupancy fee),0,0
+High-resolution AFM,50,60,150,180,Veeco Dimension 3100 AFM,65,120

@@ -1,0 +1,17 @@
+metric,value
+initial_capex_mode_case,6803008.427999999
+pw_mode_case,-9859090.185765961
+break_even_price_multiplier,3.410498332927128
+price_multiplier_for_80pct_confidence,4.4
+pw_with_free_capex,-3056081.7577659613
+mit_external_over_academic,3.0
+nist_standard_over_reduced,1.8556566970091026
+scenario_C_price_level_vs_mit,2.0588929466816546
+energy_gwh_per_year_mode,2.66304
+energy_cost_year1_mode,252988.80000000002
+scenario_D_price_level_vs_mit,1.2050919377652052
+asu_staffed_hours,2250.0
+pw_mode_asu_hours_academic,-11091808.47824783
+n_tools,15.0
+hours_per_year,3150.0
+discount_rate,0.1055
